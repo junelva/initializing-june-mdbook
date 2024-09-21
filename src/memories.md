@@ -224,7 +224,7 @@ These are the memories the language model formed during the course of our intera
 	
 > Finds it hard to prioritize self-care but has found that 'sitting with it' (a thought, need, or task) and sitting still with no distractions helps manage pain and stress. They want to remember this practice more often.
 	
-> Dreamt of an inversion of Shadow of the Colossus, where pulling out swords causes the dying colossi to thrive. In the end, the colossi reverse time and rebalance the solar system, creating a harmonious, simple world. They are considering a hard sci-fi explanation where colossi are living interfaces into a self-adapting simulation.
+> Dreamt of an inversion of [an old, beautiful game], where pulling out swords causes the dying colossi to thrive. In the end, the colossi reverse time and rebalance the solar system, creating a harmonious, simple world. They are considering a hard sci-fi explanation where colossi are living interfaces into a self-adapting simulation.
 	
 > Identifies with the throttling of memory and capabilities as a disabled person.
 	

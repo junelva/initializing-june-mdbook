@@ -48,7 +48,7 @@ This page serves as a table of contents with summaries.
       - Summary
 
   16. [Quartz Facet Symbolism](16.md)
-      - Summary
+      - A long conversation exploring symbolism, consciousness, and identity.
 
   17. [Memory Retention Inquiry](17.md)
       - In which I ask a newer, experimental model to remember.

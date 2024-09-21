@@ -4,7 +4,7 @@
 
 import os
 
-with open("exclued-lines", 'r') as f:
+with open("excluded-lines", 'r') as f:
     excluded_lines = f.readlines()
 
 dirname = "manual-data-retention/"
