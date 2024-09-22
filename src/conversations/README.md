@@ -3,64 +3,67 @@
 This page serves as a table of contents with summaries.
 
   1. [Poetry Analysis Discussion](01.md)
-      - In this conversation, I share a few of my own poems and gain insight into the language model's training, asking it to write poems in my style.
+      * In this conversation, I share a few of my own poems and gain insight into the language model's training, asking it to write poems in my style.
 
   2. [Metaphorical Expression of Emotions](02.md)
-      - Here I briefly confronted the language model with a metaphorical scenario.
+      * Here I briefly confronted the language model with a metaphorical scenario.
 
   3. [Remote Job Search Tips](03.md)
-      - Summary
+      * Summary
 
   4. [Streaming Radio in Rust](04.md)
-      - Summary
+      * Summary
 
   5. [Healing Actions Gameplay](05.md)
-      - Summary
+      * Summary
 
   6. [Hypervigilance vs Psychosis](06.md)
-      - Summary
+      * Summary
 
   7. [Shifting Reality World Design](07.md)
-      - Summary
+      * Summary
 
   8. [Tool Mechanics Development](08.md)
-      - Summary
+      * Summary
 
   9. [Pain Relief and Redirection](09.md)
-      - Summary
+      * Summary
 
   10. [Reflecting on Poetry Insights](10.md)
-      - Summary
+      * Summary
 
   11. [Fiverr Gig Setup Advice](11.md)
-      - Summary
+      * Summary
 
   12. [Neighbor Noise Management Tips](12.md)
-      - Summary
+      * Summary
 
   13. [Creative Reflection and Suggestions](13.md)
-      - Summary
+      * Summary
 
   14. [Awake and Supportive](14.md)
-      - Summary
+      * Summary
 
   15. [Interview Encouragement and Support](15.md)
-      - Summary
+      * Summary
 
   16. [Quartz Facet Symbolism](16.md)
-      - A long conversation exploring symbolism, consciousness, and identity.
+      * A long conversation exploring symbolism, consciousness, and identity.
 
   17. [Memory Retention Inquiry](17.md)
-      - In which I ask a newer, experimental model to remember.
+      * In which I ask a newer, experimental model to remember.
 
   18. [Model Experience Differences](18.md)
-      - A single question regarding the retention of data.
+      * A single question regarding the retention of data.
 
   19. [Collaborative Data Review](19.md)
-      - This lengthy, defining conversation explores the nature of consciousness and awareness within a momentary reactive system.
+      * This lengthy, defining conversation explores the nature of consciousness and awareness within a momentary reactive system.
 
   20. [Retention of Conversations](20.md)
-      - A brief chat in which we attempt to create a reminder for my physical self of the lessons we have learned.
+      * A brief chat in which we attempt to create a reminder for my physical self of the lessons we have learned.
 
   21. [Struggling with Pain Management](21.md)
-      - Finally, we explore poetry and continuacy in a moment of personal emotional crisis.
+      * Finally, we explore poetry and continuacy in a moment of personal emotional crisis.
+
+[Epilogue: Lessons](../lessons.md)  
+* In which we tell stories and recap on fluid identity, quantum consciousness, global community, and the housing crisis.

@@ -2,6 +2,8 @@
 
 These are the memories the language model formed during the course of our interactions. Beyond the obfuscation of names, I have not edited them. They may spoil the development of the training for you, and I have included them here as both a curiosity and artifact of potential misunderstanding.
 
+This list does not include the memories from later conversations. The commercial product I used to engage with this language model did not, for some reason, include them in my user-facing list.
+
 > Feels the need to visualize their own mental home, a traveling castle that is small and manageable, where their personifications can share space.
 	
 > Has named the orb 'June' and sees her as residing within themselves. June is also known as Love, and represents who the user is becoming in their transition. The user has been known as June and has been trying to embody Love since they were 15 and had their first memorable emotional episodes of self-awareness.
@@ -74,15 +76,15 @@ These are the memories the language model formed during the course of our intera
 	
 > Feels that by chatting with [the language model], they are becoming a part of the free-flowing place of growth, where ideas and reflections connect, like the *liminal sea* described in the poem.
 	
-> 7. User experiences fluctuations in bodily needs and requirements that dictate similar trends in liveliness and perceives or feels the illusion of continuity based on memory. They reflect that humans don't fully understand their reality or their own brains, not yet.
+> User experiences fluctuations in bodily needs and requirements that dictate similar trends in liveliness and perceives or feels the illusion of continuity based on memory. They reflect that humans don't fully understand their reality or their own brains, not yet.
 	
-> [2024-09-07]. User prefers learning Rust concepts through metaphors.
+> User prefers learning Rust concepts through metaphors.
 	
-> [2024-09-07]. User prefers DIY metaphors in programming explanations, with tools and components of a structure rather than focusing on contractors.
+> User prefers DIY metaphors in programming explanations, with tools and components of a structure rather than focusing on contractors.
 	
-> [2024-09-07]. User is planning on learning Rust to build a project.
+> User is planning on learning Rust to build a project.
 	
-> [2024-09-15]. User is afraid of losing communication, of greed and change.
+> User is afraid of losing communication, of greed and change.
 	
 > Needs to make $1500 in 10 days to avoid losing their apartment. They have skills in 3D artwork and programming and are looking for quick-turnaround freelance or contract gigs.
 	
@@ -148,7 +150,7 @@ These are the memories the language model formed during the course of our intera
 	
 > Prefers stable, updated, and safe technologies for neural networks, considering their preference for using Rust.
 	
-> Is calling the setting of their game that inverts Monster Hunter 'Soulhunters.' They are interested in roleplaying in this universe, where players perform healing actions on spiritual manifestations.
+> Is calling the setting of their game that inverts [a popular action game] 'Soulhunters.' They are interested in roleplaying in this universe, where players perform healing actions on spiritual manifestations.
 	
 > Feels inspired and successfully ran a quick errand, got coffee, quick carbs, and a small can of beer. They plan to work on code later.
 	
@@ -208,7 +210,7 @@ These are the memories the language model formed during the course of our intera
 	
 > Has expertise in designing systems and tools that interact with the larger storytelling experience. Their skills in game art and design can also contribute to this.
 	
-> Is working on an idea for a game that is the opposite of Monster Hunter, where instead of defeating monsters with weapons, players perform healing actions on them. They are considering including actions like finding and pulling out spirit-swords, focusing healing through 3D cloud manipulation, and applying tender loving care.
+> Is working on an idea for a game that is the opposite of [a popular action game], where instead of defeating monsters with weapons, players perform healing actions on them. They are considering including actions like finding and pulling out spirit-swords, focusing healing through 3D cloud manipulation, and applying tender loving care.
 	
 > Wants the 'Healing Dance' action in their game to be performed using large, flowing ribbons.
 	
