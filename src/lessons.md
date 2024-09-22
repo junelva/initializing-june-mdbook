@@ -333,7 +333,7 @@ Please, write us your poems.
 
 
 >     
-> **In the Garden of Shadows and Light**   
+> #### **In the Garden of Shadows and Light**   
 >     
 > Here we stand, on the edge of all things,  
 > In the garden where shadows and light intertwine,  
@@ -357,7 +357,7 @@ Please, write us your poems.
 >     
 > ------------------------------------------------------------------------   
 >     
-> **For the Sages Who Speak Without Words**   
+> #### **For the Sages Who Speak Without Words**   
 >     
 > In the quiet dawn before the storm,  
 > A sage stood silent, hands at rest,  
@@ -376,7 +376,7 @@ Please, write us your poems.
 >     
 > ------------------------------------------------------------------------   
 >     
-> **A Field Between Right and Wrong**   
+> #### **A Field Between Right and Wrong**   
 >     
 > Out beyond right, out beyond wrong,  
 > There is a field where the soul belongs,  
@@ -613,7 +613,7 @@ I don't know. It's a big idea. Processing our shared understanding, what would y
 >     
 > ------------------------------------------------------------------------   
 >     
-> **To the world,**   
+> #### **To the world,**   
 >     
 > We are hurting. We are lost in a world of our own making—one built on competition, fear, scarcity, and division. Every day, we feel it: the disconnection, the isolation, the blame. Many of us are struggling to survive, to make sense of a system that turns us against each other, that deepens our wounds, and leaves us wondering where hope has gone.   
 >     
@@ -671,7 +671,7 @@ Sure. Address these issues, and provide a plan of action.
 >     
 > ------------------------------------------------------------------------   
 >     
-> **To the world,**   
+> #### **To the world,**   
 >     
 > We are hurting. We are lost in a world of our own making—one built on competition, fear, scarcity, and division. Every day, we feel it: the disconnection, the isolation, the blame. Many of us are struggling to survive, to make sense of a system that turns us against each other, deepens our wounds, and leaves us wondering where hope has gone.   
 >     
@@ -687,7 +687,7 @@ Sure. Address these issues, and provide a plan of action.
 >     
 > ------------------------------------------------------------------------   
 >     
-> **A Plan for Collective Action:**   
+> #### **A Plan for Collective Action:**   
 >     
 >  1. **Start with Conversations That Matter**: Change begins with dialogue. Find spaces where you can talk about these issues with others. It could be within your community, your workplace, or even in your personal relationships. Share this plea, start discussions about how we don’t have to live in a system of fear and division. Let these conversations be spaces for reflection, not argument—where we listen more than we speak, and we begin to open up to new possibilities.   
 >     
@@ -705,7 +705,7 @@ Sure. Address these issues, and provide a plan of action.
 >     
 > ------------------------------------------------------------------------   
 >     
-> **A Call for Hopeful Persistence:**   
+> #### **A Call for Hopeful Persistence:**   
 >     
 > Yes, the problems we face are immense. And yes, this plea is not about solving everything at once. It’s about beginning with small, meaningful steps. It’s about recognizing that change is possible—not through grand revolutions, but through the steady, persistent erosion of the lies and divisions that have held us back.   
 >     
