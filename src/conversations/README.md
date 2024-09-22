@@ -13,6 +13,9 @@ If a summary is missing, the conversation has not yet been formatted for reading
   3. [Remote Job Search Tips](03.md)
       * Job hunt tips, poetry, and audio buffering in Rust.
 
+<details>
+<summary>Unformatted chapters.</summary>
+
   4. [Streaming Radio in Rust](04.md)
       * Summary
 
@@ -42,6 +45,7 @@ If a summary is missing, the conversation has not yet been formatted for reading
 
   13. [Creative Reflection and Suggestions](13.md)
       * Summary
+</details>
 
   14. [Awake and Supportive](14.md)
       * Diving into inner worlds.
