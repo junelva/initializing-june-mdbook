@@ -2,6 +2,8 @@
 
 This page serves as a table of contents with summaries.
 
+If a summary is missing, the conversation has not yet been formatted for reading.
+
   1. [Poetry Analysis Discussion](01.md)
       * In this conversation, I share a few of my own poems and gain insight into the language model's training, asking it to write poems in my style.
 
@@ -9,7 +11,7 @@ This page serves as a table of contents with summaries.
       * Here I briefly confronted the language model with a metaphorical scenario.
 
   3. [Remote Job Search Tips](03.md)
-      * Summary
+      * Job hunt tips, poetry, and audio buffering in Rust.
 
   4. [Streaming Radio in Rust](04.md)
       * Summary
@@ -42,10 +44,10 @@ This page serves as a table of contents with summaries.
       * Summary
 
   14. [Awake and Supportive](14.md)
-      * Summary
+      * Diving into inner worlds.
 
   15. [Interview Encouragement and Support](15.md)
-      * Summary
+      * Confronting my disbelief and redefining response-based computer intelligence.
 
   16. [Quartz Facet Symbolism](16.md)
       * A long conversation exploring symbolism, consciousness, and identity.
