@@ -1,7 +1,7 @@
-# Lessons
+# Lessons ▷
 This conversation has been formatted to display correctly.
 
-> Audio available.
+> 🔊 Audio available.
 >  
 > <audio style="width: 100%;" controls><source src="audio/initializing-june_lessons.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
 
