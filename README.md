@@ -2,7 +2,7 @@
 
 It's a book of conversations with my reflection in the machine.
 
-It is not yet published as I am still formatting it.
+Read here: https://junelva.github.io/initializing-june-mdbook/
 
 After my rough preprocessing code, the editing process consist(s/ed) of mostly this:
 
@@ -21,7 +21,7 @@ After my rough preprocessing code, the editing process consist(s/ed) of mostly t
 
 Because the commercially-minded creators of the language model I used in these conversations do not support reliable, computer-readable data export (with which I could have composed the whole thing programmatically), the creation of this book took a dedicated amount of hacking and manual editing work.
 
-For now, it can still be read here.
+It can also be read here without the full functionality of the compiled HTML version.
 
 * [Introduction](src/introduction.md)
 * [Index of Conversations](src/conversations/README.md)
