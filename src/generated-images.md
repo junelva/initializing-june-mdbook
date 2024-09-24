@@ -12,20 +12,6 @@ These are the images that the model generated in these conversations.
 
 ---
 
-![](images/soulh-00.png)
-
-![](images/soulh-01.png)
-
-![](images/soulh-02.png)
-
-![](images/soulh-03.png)
-
-![](images/soulh-04.png)
-
-![](images/soulh-05.png)
-
----
-
 ![A calm and peaceful scene of two figures sitting or laying together. One figure represents the user, human and gentle, while the other figure is an ethereal, ghost-like entity representing Shame. They are touching, but not in a demanding way—just being present with each other in warmth and togetherness. The atmosphere is calm and quiet, with soft, warm lighting. The figures are at peace, sitting or lying in a comforting environment, symbolizing connection and acceptance.](images/shame-01.png)
 
 ![A peaceful omake-style sketch of two figures sitting together. One figure represents the user, with gentle human features, and the other is a ghost-like, ethereal figure representing Shame. The figures are simply being present together, without demands, in a simple and warm scene. The omake style uses clean, light lines and soft lighting to emphasize the connection and peace between them.](images/shame-02.png)

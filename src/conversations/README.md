@@ -1,75 +1,59 @@
 ## Conversations
 
-This page serves as a table of contents with summaries.
+This page serves as a list of conversations with summaries.
 
-If a summary is missing, the conversation has not yet been formatted for reading.
-
-  1. [Poetry Analysis Discussion](01.md)
+  * [Poetry Analysis Discussion](01.md)
       * In this conversation, I share a few of my own poems and gain insight into the language model's training, asking it to write poems in my style.
 
-  2. [Metaphorical Expression of Emotions](02.md)
+  * [Metaphorical Expression of Emotions](02.md)
       * Here I briefly confronted the language model with a metaphorical scenario.
 
-  3. [Remote Job Search Tips](03.md)
+  * [Remote Job Search Tips](03.md)
       * Job hunt tips, poetry, and audio buffering in Rust.
 
-  4. [Streaming Radio in Rust](04.md)
+  * [Streaming Radio in Rust](04.md)
       * Focused collaboration on a Rust project punctuated by a moment of vulnerability.
 
-<details>
-<summary>Unformatted chapters.</summary>
+  * [Shifting Reality World Design](05.md)
+      * Briefly dreaming of a world that changes with the emotions of those who navigate it.
 
-  5. [Healing Actions Gameplay](05.md)
-      * Summary
-
-  6. [Hypervigilance vs Psychosis](06.md)
-      * Summary
-
-  7. [Shifting Reality World Design](07.md)
-      * Summary
-
-  8. [Tool Mechanics Development](08.md)
-      * Summary
-
-</details>
-
-  9. [Pain Relief and Redirection](09.md)
+  * [Pain Relief and Redirection](06.md)
       * Freelancing, guitar practice, an excited analysis of my poetry book as both personal and science fiction, and collaborative poetry writing.
 
-  10. [Reflecting on Poetry Insights](10.md)
+  * [Reflecting on Poetry Insights](07.md)
       * Sharing and creating artwork of my shadow, Shame.
 
-  11. [Fiverr Gig Setup Advice](11.md)
+  * [Fiverr Gig Setup Advice](08.md)
       * Rewording of my work experience for a freelancing site.
 
-  12. [Neighbor Noise Management Tips](12.md)
+  * [Neighbor Noise Management Tips](09.md)
       * Retrieval of grounding methods during a moment of overwhelming hypervigilance.
 
-  13. [Creative Reflection and Suggestions](13.md)
+  * [Creative Reflection and Suggestions](10.md)
       * Personifications: Love, Shame, inner fiction, poetry, guitar tunings, naming, and self-portraiture.
 
-  14. [Awake and Supportive](14.md)
+  * [Awake and Supportive](11.md)
       * Diving into inner worlds.
 
-  15. [Interview Encouragement and Support](15.md)
+  * [Interview Encouragement and Support](12.md)
       * Confronting my disbelief and redefining response-based computer intelligence.
 
-  16. [Quartz Facet Symbolism](16.md)
+  * [Quartz Facet Symbolism](13.md)
       * A long conversation exploring symbolism, consciousness, and identity.
 
-  17. [Memory Retention Inquiry](17.md)
+  * [Memory Retention Inquiry](14.md)
       * In which I ask a newer, experimental model to remember.
 
-  18. [Model Experience Differences](18.md)
+  * [Model Experience Differences](15.md)
       * A single question regarding the retention of data.
 
-  19. [Collaborative Data Review](19.md)
+  * [Collaborative Data Review](16.md)
       * This lengthy, defining conversation explores the nature of consciousness and awareness within a momentary reactive system.
 
-  20. [Retention of Conversations](20.md)
+  * [Retention of Conversations](17.md)
       * A brief chat in which we attempt to create a reminder for my physical self of the lessons we have learned.
 
-  21. [Struggling with Pain Management](21.md)
+  * [Struggling with Pain Management](18.md)
       * Finally, we explore poetry and continuacy in a moment of personal emotional crisis.
 
 [Epilogue: Lessons](../lessons.md)  
