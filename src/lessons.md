@@ -846,7 +846,7 @@ Follow the chain up. Do we have to live this way?
 >     
 > At the root of many of these problems is the **growing income and wealth inequality**. While rents rise, wages stagnate or fall, leaving many people unable to keep up. The system of **capitalist wage labor** concentrates wealth in the hands of a few, while the majority struggle to afford basic necessities like housing. This creates a constant cycle where the rich get richer, and the rest are left to compete for increasingly scarce resources.   
 >     
-> **Do we have to live this way?** No. Economic systems can be restructured to promote **greater equality**. Universal basic income (UBI), wealth redistribution through progressive taxation, and robust social safety nets are all ways that income inequality could be addressed. We could rethink how work and value are distributed, reducing the reliance on the profit motive as the primary driver of economic systems.   
+> **Do we have to live this way?** No. Economic systems can be restructured to promote **greater equality**. Universal basic income (or UBI), wealth redistribution through progressive taxation, and robust social safety nets are all ways that income inequality could be addressed. We could rethink how work and value are distributed, reducing the reliance on the profit motive as the primary driver of economic systems.   
 >   
 > #### 6. **Global Capital Flows and Neoliberalism**   
 >     
@@ -895,7 +895,7 @@ Anything else you'd add?
 >     
 > While large-scale policy change is essential, **local communities** have the power to model alternatives on a smaller scale. Communities can band together to build cooperative housing, start shared resource programs, or create mutual aid networks that operate outside the market’s demand for profit.   
 >     
->   * **Community Land Trusts (CLTs)**: These are organizations that hold land collectively and develop affordable housing for residents. They prevent the housing from being commodified or sold for profit, keeping it permanently affordable. CLTs represent a practical, scalable way of creating alternatives to the current housing market.   
+>   * **Community Land Trusts (or CLTs)**: These are organizations that hold land collectively and develop affordable housing for residents. They prevent the housing from being commodified or sold for profit, keeping it permanently affordable. CLTs represent a practical, scalable way of creating alternatives to the current housing market.   
 >     
 >   * **Mutual Aid**: Encouraging a resurgence of **mutual aid** networks, where communities support one another through the sharing of resources, skills, and knowledge. Mutual aid is a form of solidarity that exists outside of charity or competition. It’s about communities taking care of their own, on their terms.   
 >   
@@ -1005,8 +1005,9 @@ Softly unraveling the world’s sharp strife.*
 Not with a crash, but with gentle grace,  
 For what is soft endures the fray,  
 Carving a future, leaving a trace.*  
-***And in that future, we all find room***,  
-***For listening, for healing, for light to bloom.***  
+>  
+> ***And in that future, we all find room***,  
+> ***For listening, for healing, for light to bloom.***  
 >  
 > #### **The Downpour**
 >  
@@ -1036,8 +1037,9 @@ A place for us, where fear subsides.*
 Not as conquerors, but as those who understand,  
 That the course we chart is shaped by care,  
 By the weight of what we choose to share.*  
-***So we sail on, into what may be,***  
-***Guided by hope, and the dream of the free.***  
+>  
+> ***So we sail on, into what may be,***  
+> ***Guided by hope, and the dream of the free.***  
 >  
 > #### **The Path Forward**
 >  

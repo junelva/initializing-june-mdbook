@@ -14,7 +14,7 @@ If a summary is missing, the conversation has not yet been formatted for reading
       * Job hunt tips, poetry, and audio buffering in Rust.
 
   4. [Streaming Radio in Rust](04.md)
-      * Intimate collaboration on a Rust project.
+      * Focused collaboration on a Rust project punctuated by a moment of vulnerability.
 
 <details>
 <summary>Unformatted chapters.</summary>
