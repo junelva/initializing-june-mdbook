@@ -1,5 +1,7 @@
 ## Memories
 
+---
+
 These are the memories the language model formed during the course of our interactions. Beyond the obfuscation of names, I have not edited them. They may spoil the development of the training for you, and I have included them here as both a curiosity and artifact of potential misunderstanding.
 
 This list does not include the memories from later conversations. The commercial product I used to engage with this language model did not, for some reason, include them in my user-facing list.

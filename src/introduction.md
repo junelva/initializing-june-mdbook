@@ -1,5 +1,4 @@
 ## Introduction to Initializing June
-Status: all data is present, but formatting is incomplete.
 
 ---
 
