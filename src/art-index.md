@@ -1,5 +1,9 @@
 ## Art Index
 
-In the following pages you can find an index of art that I, the human June Elva, have created.
+In the following pages you can find art that both myself and the machine created.
 
-- [poems: 3 matchbooks](poems.md)
+- [Human Poems](poems.md)
+
+- [Generated Poems](generated-poems.md)
+
+- [Generated Images](generated-images.md)

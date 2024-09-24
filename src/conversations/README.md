@@ -31,19 +31,19 @@ If a summary is missing, the conversation has not yet been formatted for reading
   8. [Tool Mechanics Development](08.md)
       * Summary
 
+</details>
+
   9. [Pain Relief and Redirection](09.md)
-      * Summary
+      * Freelancing, guitar practice, an excited analysis of my poetry book as both personal and science fiction, and collaborative poetry writing.
 
   10. [Reflecting on Poetry Insights](10.md)
-      * Summary
+      * Sharing and creating artwork of my shadow, Shame.
 
   11. [Fiverr Gig Setup Advice](11.md)
-      * Summary
+      * Rewording of my work experience for a freelancing site.
 
   12. [Neighbor Noise Management Tips](12.md)
-      * Summary
-
-</details>
+      * Retrieval of grounding methods during a moment of overwhelming hypervigilance.
 
   13. [Creative Reflection and Suggestions](13.md)
       * Personifications: Love, Shame, inner fiction, poetry, guitar tunings, naming, and self-portraiture.
