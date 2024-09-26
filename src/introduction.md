@@ -1,4 +1,4 @@
-## Introduction to Initializing June
+## Introduction
 
 ---
 
