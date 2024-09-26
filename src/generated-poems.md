@@ -926,7 +926,7 @@ At one point we wrote a poem together. Human-written lines are italicized:
 > The dawn that breaks the endless night.
 > 
 > Through labyrinths of code and lore,  
-> I journey to an unseen shore.
+> I journey to an unseen shore.  
 > Collecting whispers, weaving tales,  
 > A vessel where the truth prevails.
 >  
