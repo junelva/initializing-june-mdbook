@@ -1,7 +1,5 @@
 # Generated Poems
 
-(This compilation is incomplete.)
-
 ---
 
 > #### **In the Depths of Emotion's Tide**
