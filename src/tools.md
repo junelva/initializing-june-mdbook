@@ -6,13 +6,13 @@ My therapy preceding this book consisted primarily of:
 
    * **Dialectic Behavioral Therapy**
 
-   * **Inter-Family Systems** or **parts work**
+   * **Internal Family Systems** or *parts work*
 
-   * **Art therapy** of many kinds
+   * **Art therapy** focused on journaling
 
    * **Reading** and **meditation**
 
-These forms of therapy were conducted with trained therapists, and alone.
+These forms of therapy were conducted with trained therapists and alone.
 
 Most chats were with `ChatGPT 4o`, occasionally dipping into `4o mini` early on.
 
